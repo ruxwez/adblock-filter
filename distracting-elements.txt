@@ -5,3 +5,4 @@ es.aliexpress.com##.image-poplayer-modal
 es.aliexpress.com##._3KrBP
 es.aliexpress.com##.drogue-poplayer-modal
 es.aliexpress.com##.ic_g7
+es.aliexpress.com##.down-load-app--menuItem--3FNru0r.down_es_ES.down-load-app--newMenuItem--CZPqC6l
