@@ -6,3 +6,14 @@ es.aliexpress.com##._3KrBP
 es.aliexpress.com##.drogue-poplayer-modal
 es.aliexpress.com##.ic_g7
 es.aliexpress.com##.down-load-app--menuItem--3FNru0r.down_es_ES.down-load-app--newMenuItem--CZPqC6l
+www.aliexpress.com###mobile-download
+www.aliexpress.com##.account-recommend-content
+www.aliexpress.com##.order-recommend.order-block
+m.aliexpress.com###mobile-download
+feedback.aliexpress.com###mobile-download
+www.aliexpress.com##div.page-menu-item:nth-of-type(11)
+www.aliexpress.com##.down-load-app--simpleMenuItem--griCxPc
+feedback.aliexpress.com##.down-load-app--simpleMenuItem--griCxPc
+m.aliexpress.com##.down-load-app--simpleMenuItem--griCxPc
+m.aliexpress.com##div.page-menu-item:nth-of-type(11)
+feedback.aliexpress.com##div.page-menu-item:nth-of-type(11)
