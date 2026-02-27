@@ -1,0 +1,7 @@
+www.windguru.cz###adblock_warning_message
+www.windguru.cz##.pruh-warning
+
+es.aliexpress.com##.image-poplayer-modal
+es.aliexpress.com##._3KrBP
+es.aliexpress.com##.drogue-poplayer-modal
+es.aliexpress.com##.ic_g7
