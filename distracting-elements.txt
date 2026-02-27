@@ -12,3 +12,4 @@ aliexpress.com##.order-recommend.order-block
 aliexpress.com##div.page-menu-item:nth-of-type(11)
 aliexpress.com##.down-load-app--simpleMenuItem--griCxPc
 aliexpress.com##.cart-recommend
+aliexpress.com##.cart-summary-suggestion
